@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**ivanmedina/ivanmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I’m currently working as a Software Engineer 
+- 🌱 Learning ReactJs <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- :triangular_flag_on_post:	CTF Player ( i :heart: pwn )
+- 🔭 Future Security Researcher
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmedina&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanmedina&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+#### Hacking
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=CTFs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=pwning&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Learnig repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=react_udemy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=curso-docker-udemy&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=lenguajeC&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### University
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=SpotyPie&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=marvelHeroes&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub watchers](https://img.shields.io/github/watchers/ivanmedina/ivanmedina?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/ivanmedina/ivanmedina) [![GitHub followers](https://img.shields.io/github/followers/ivanmedina.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ivanmedina?tab=followers)
