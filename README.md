@@ -16,6 +16,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=CTFs&theme=gotham)](https://github.com/ivanmedina/CTFs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=pwning&theme=gotham)](https://github.com/ivanmedina/Pwning)
 
+#### Learnig repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=react_udemy&theme=gotham)](https://github.com/ivanmedina/react_udemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=curso-docker-udemy&theme=gotham)](https://github.com/ivanmedina/curso-docker-udemy)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=lenguajeC&theme=gotham)](https://github.com/ivanmedina/lenguajeC)
 
 
 #### University
