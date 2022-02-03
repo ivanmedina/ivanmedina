@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :computer: I’m currently working as a Software Engineer 
-- 🌱 Learning ReactJs <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- 🌱 Preparing for CompTIA Security + 
 - :triangular_flag_on_post:	CTF Player ( i :heart: pwn )
 - 🔭 Future Security Researcher
 
