@@ -12,6 +12,7 @@
 **Contact with me:**
 
 [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmedina&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanmedina&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
