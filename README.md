@@ -11,7 +11,7 @@
 
 **Contact with me:**
 
-[<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][https://www.linkedin.com/in/ivanmedina-isc/]
+[<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmedina&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanmedina&theme=gotham)](https://github.com/DenverCoder1/github-readme-streak-stats)
@@ -31,3 +31,5 @@
 
 
 [![GitHub watchers](https://img.shields.io/github/watchers/ivanmedina/ivanmedina?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/ivanmedina/ivanmedina) [![GitHub followers](https://img.shields.io/github/followers/ivanmedina.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ivanmedina?tab=followers)
+
+[linkedin]: https://www.linkedin.com/in/ivanmedina-isc/
