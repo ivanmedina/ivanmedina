@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :computer: I’m currently working as a Software Engineer 
-- 🌱 Preparing for CompTIA Security + 
+- :computer: I’m currently working as Application Security Engineer  
+- 🌱 Preparing for eWPT 
 - :triangular_flag_on_post:	CTF Player ( i :heart: pwn )
 - 🔭 Future Security Researcher
 
