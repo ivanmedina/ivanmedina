@@ -38,11 +38,29 @@ ___
 
 #### Learning
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=react_udemy&theme=gotham)](https://github.com/ivanmedina/react_udemy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=curso-docker-udemy&theme=gotham)](https://github.com/ivanmedina/curso-docker-udemy)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=lenguajeC&theme=gotham)](https://github.com/ivanmedina/lenguajeC)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=curso-docker-udemy&theme=gotham)](https://github.com/ivanmedina/curso-docker-udemy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=lenguajeC&theme=gotham)](https://github.com/ivanmedina/lenguajeC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=learningSpring&theme=gotham)](https://github.com/ivanmedina/learningSpring)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=learningGQL&theme=gotham)](https://github.com/ivanmedina/learningGQL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=learningLaravel&theme=gotham)](https://github.com/ivanmedina/learningLaravel)
 
 #### Software Engineer
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=jwt-nodejs-auth&theme=gotham)](https://github.com/ivanmedina/jwt-nodejs-auth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=github-actions-tests&theme=gotham)](https://github.com/ivanmedina/github-actions-tests)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=marvelHeroes&theme=gotham)](https://github.com/ivanmedina/marvelHeroes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=syntax-analyzer&theme=gotham)](https://github.com/ivanmedina/syntax-analyzer)
+
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=webHosting&theme=gotham)](https://github.com/ivanmedina/webHosting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=CRO2Timetabling&theme=gotham)](https://github.com/ivanmedina/CRO2Timetabling)
+
+### Github Actions
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=pr-critical-files&theme=gotham)](https://github.com/ivanmedina/pr-critical-files)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=pr-size-labeler&theme=gotham)](https://github.com/ivanmedina/pr-size-labeler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ivanmedina&repo=pr-description-checker&theme=gotham)](https://github.com/ivanmedina/pr-description-checker)
+
 
 ___
 
